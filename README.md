@@ -1,4 +1,4 @@
-# signatumclassic-hasing-module
+# Signatum-Classic-Hasing-Module
 --------------------------------
 
 # Install
@@ -8,7 +8,8 @@
 
 ---------------------------------
 
-# Signatum Classic 
+# Signatum Classic
 
 
-# signatumclassic-hasing-module
+
+
